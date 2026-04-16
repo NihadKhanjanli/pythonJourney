@@ -1,2 +1,2 @@
 # pythonJourney
-l want to share my learning path.
+l will share my learning path.
